@@ -17,4 +17,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 - To compile and run program in Ubuntu, simply enter "make" in `src` directory. (The folder with the 'makefile')
 - The program will be work with JRE JDK 11 and JavaFX SDK 11 best.
 
-This is the video shows the program: https://www.youtube.com/watch?v=0iUK7Va_9b8&t=9s
+The video that shows how the app works: https://www.youtube.com/watch?v=0iUK7Va_9b8&t=9s
