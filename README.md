@@ -12,7 +12,7 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-## Compiling...
+## Compiling
 
 - To compile and run program in Ubuntu, simply enter "make" in `src` directory. (The folder with the 'makefile')
 - The program will be work with JRE JDK 11 and JavaFX SDK 11 best.
